@@ -1,4 +1,4 @@
-<img style="max-width: 100%; height: auto; object-fit: cover;" src="https://github.com/mnik7044/mnik7044/blob/main/github-header-image%20(6).png" alt="logo">
+<img style="max-width: 100%; height: auto; object-fit: cover;" src="https://github.com/mnik7044/mnik7044/blob/main/github-header-image%20(6).png" >
 
 <h1 align="center">Hi 👋, I'm Nikhil Mishra</h1>
 <h3 align="center">From front-end to back-end and everything in between – follow my full-stack web development adventures!🚀</h3>
