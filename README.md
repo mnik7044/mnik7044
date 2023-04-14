@@ -26,7 +26,6 @@
 <h3 align="left">Latest Blogs</h3>
 
 <!-- HASHNODE_BLOG:START -->
-
 <!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Languages and Tools</h3>
