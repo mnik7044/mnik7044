@@ -26,6 +26,9 @@
 <h3 align="left">Latest Blogs</h3>
 
 <!-- HASHNODE_BLOG:START -->
+- [Flexbox In CSS](https://nikk.hashnode.dev//flexbox-in-css)
+- [Let's Get Started With Git.](https://nikk.hashnode.dev//lets-get-started-with-git)
+- [My First Hackathon](https://nikk.hashnode.dev//my-first-hackathon)
 <!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Languages and Tools</h3>
