@@ -26,6 +26,7 @@
 <h3 align="left">Latest Blogs</h3>
 
 <!-- HASHNODE_BLOG:START -->
+- [API Chronicles S01E01](https://nikk.hashnode.dev//api-chronicles-s01e01)
 - [Flexbox In CSS](https://nikk.hashnode.dev//flexbox-in-css)
 - [Let's Get Started With Git.](https://nikk.hashnode.dev//lets-get-started-with-git)
 - [My First Hackathon](https://nikk.hashnode.dev//my-first-hackathon)
