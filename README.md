@@ -26,6 +26,7 @@
 <h3 align="left">Latest Blogs</h3>
 
 <!-- HASHNODE_BLOG:START -->
+- [JavaScript for Beginners: Unlocking the Basics of Datatypes, Methods, Arrays, and Functions](https://nikk.hashnode.dev//javascript-for-beginners-unlocking-the-basics-of-datatypes-methods-arrays-and-functions)
 - [API Chronicles S01E01](https://nikk.hashnode.dev//api-chronicles-s01e01)
 - [Flexbox In CSS](https://nikk.hashnode.dev//flexbox-in-css)
 - [Let's Get Started With Git.](https://nikk.hashnode.dev//lets-get-started-with-git)
