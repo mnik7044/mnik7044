@@ -51,6 +51,8 @@
 <p align="center">
  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnik7044&&theme=dark&show_icons=true" alt="mnik7044" />
+  
+  <p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=mnik7044&bg_color=010109&color=eff1f6&line=06b290&point=fffafa&area=true&hide_border=true" alt = "mnik7044" /> </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
