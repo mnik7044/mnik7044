@@ -26,6 +26,7 @@
 <h3 align="left">Latest Blogs</h3>
 
 <!-- HASHNODE_BLOG:START -->
+- [Dom Manipulation In Javascript](https://nikk.hashnode.dev//dom-manipulation-in-javascript)
 - [Objects & JSON in Javascript](https://nikk.hashnode.dev//objects-json-in-javascript)
 - [Error Handling and Debugging in Javascript](https://nikk.hashnode.dev//error-handling-and-debugging-in-javascript)
 - [JavaScript for Beginners: Unlocking the Basics of Datatypes, Methods, Arrays, and Functions](https://nikk.hashnode.dev//javascript-for-beginners-unlocking-the-basics-of-datatypes-methods-arrays-and-functions)
