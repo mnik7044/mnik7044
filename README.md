@@ -26,6 +26,7 @@
 <h3 align="left">Latest Blogs</h3>
 
 <!-- HASHNODE_BLOG:START -->
+- [Getting Started with Linux with some basic commands](https://nikk.hashnode.dev//getting-started-with-linux-with-some-basic-commands)
 - [Callback & Callback Hell In Javascript](https://nikk.hashnode.dev//callback-callback-hell-in-javascript)
 - [Dom Manipulation In Javascript](https://nikk.hashnode.dev//dom-manipulation-in-javascript)
 - [Objects & JSON in Javascript](https://nikk.hashnode.dev//objects-json-in-javascript)
