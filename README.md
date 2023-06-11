@@ -26,6 +26,7 @@
 <h3 align="left">Latest Blogs</h3>
 
 <!-- HASHNODE_BLOG:START -->
+- [Building Your First Web Server Using NodeJs](https://nikk.hashnode.dev//building-your-first-web-server-using-nodejs)
 - [Getting Started with Linux with some basic commands](https://nikk.hashnode.dev//getting-started-with-linux-with-some-basic-commands)
 - [Callback & Callback Hell In Javascript](https://nikk.hashnode.dev//callback-callback-hell-in-javascript)
 - [Dom Manipulation In Javascript](https://nikk.hashnode.dev//dom-manipulation-in-javascript)
@@ -35,7 +36,6 @@
 - [API Chronicles S01E01](https://nikk.hashnode.dev//api-chronicles-s01e01)
 - [Flexbox In CSS](https://nikk.hashnode.dev//flexbox-in-css)
 - [Let's Get Started With Git.](https://nikk.hashnode.dev//lets-get-started-with-git)
-- [My First Hackathon](https://nikk.hashnode.dev//my-first-hackathon)
 <!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Languages and Tools</h3>
