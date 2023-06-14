@@ -69,12 +69,6 @@ In today's blog we will be building our first HTTP server so there is some prere
 <div><strong>8 June 2023</strong></div>
 <br/> Introduction
 Linux, an open-source operating system known for its stability, flexibility, and security, has gained tremendous popularity in recent years. Its vast ecosystem of distributions, known as distros, offers a variety of options suited to dif... </p> <br/> <br/>
-<p align="left">
-<a href="https://nikk.hashnode.dev//callback-callback-hell-in-javascript" title="Callback & Callback Hell In Javascript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684267836656/c61f0d88-4ede-4fcb-9cec-3df66743deb8.png" alt="Callback & Callback Hell In Javascript" width="250px" align="left" /></a>
-<a href="https://nikk.hashnode.dev//callback-callback-hell-in-javascript" title="Callback & Callback Hell In Javascript"><strong>Callback & Callback Hell In Javascript</strong></a>
-<div><strong>26 May 2023</strong></div>
-<br/> Introduction
-JavaScript is a popular programming language that allows us to create interactive web applications. One of its important concepts is the callback function. In this blog post, we'll explore what callbacks are and also touch upon callback ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
