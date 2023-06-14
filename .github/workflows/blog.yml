@@ -16,8 +16,11 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'godnik' # Hashnode Username
+          USERNAME: 'godnik' # Hashnode Username\
+          COUNT: 3 #MAX Visisble
+          STYLE: "blog-left"
           BLOG_URL: 'https://nikk.hashnode.dev/' # Blog URL
-          COUNT: 10 # MAX Visisble
+          
+          
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
