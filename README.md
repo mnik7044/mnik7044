@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/nikktwts" target="blank"><img src="https://img.shields.io/twitter/follow/nikktwts?logo=twitter&style=for-the-badge" alt="nikktwts" /></a> </p>
 
-- 🌱 I’m currently learning **CSS, Javascript**
+- 🌱 I’m currently learning **Nodejs,Expressjs,MongoDb**
 
 - 📝 I regularly write articles on [https://nikk.hashnode.dev/](https://nikk.hashnode.dev/)
 
