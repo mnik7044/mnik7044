@@ -58,17 +58,17 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://nikk.hashnode.dev//file-system-module-in-nodejs" title="File System Module in Nodejs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686644684243/ac985370-9e8d-405e-ba02-9df4a7314e25.png" alt="File System Module in Nodejs" width="250px" align="left" /></a>
+<a href="https://nikk.hashnode.dev//file-system-module-in-nodejs" title="File System Module in Nodejs"><strong>File System Module in Nodejs</strong></a>
+<div><strong>15 June 2023</strong></div>
+<br/> Introduction
+In this series about nodejs today we are going to learn about file system. The file system module in Node.js is a powerful tool that allows developers to interact with the file system on their machines. It provides a wide range of functi... </p> <br/> <br/>
+<p align="left">
 <a href="https://nikk.hashnode.dev//building-your-first-web-server-using-nodejs" title="Building Your First Web Server Using NodeJs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686644720036/6fe090c0-2c24-4468-b08d-1d3293dfa9e6.png" alt="Building Your First Web Server Using NodeJs" width="250px" align="left" /></a>
 <a href="https://nikk.hashnode.dev//building-your-first-web-server-using-nodejs" title="Building Your First Web Server Using NodeJs"><strong>Building Your First Web Server Using NodeJs</strong></a>
 <div><strong>10 June 2023</strong> | <strong>Updated: 13 June 2023</strong></div>
 <br/> Introduction
 In today's blog we will be building our first HTTP server so there is some prerequisite for this blog which is some basic knowledge of javascript, an understanding of syntaxes in javascript. Node.js has gained significant popularity in r... </p> <br/> <br/>
-<p align="left">
-<a href="https://nikk.hashnode.dev//getting-started-with-linux-with-some-basic-commands" title="Getting Started with Linux with some basic commands"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686088282020/dcca61fa-2ead-440a-9226-93188aa2ddfe.png" alt="Getting Started with Linux with some basic commands" width="250px" align="left" /></a>
-<a href="https://nikk.hashnode.dev//getting-started-with-linux-with-some-basic-commands" title="Getting Started with Linux with some basic commands"><strong>Getting Started with Linux with some basic commands</strong></a>
-<div><strong>8 June 2023</strong></div>
-<br/> Introduction
-Linux, an open-source operating system known for its stability, flexibility, and security, has gained tremendous popularity in recent years. Its vast ecosystem of distributions, known as distros, offers a variety of options suited to dif... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
