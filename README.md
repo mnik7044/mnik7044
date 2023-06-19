@@ -58,17 +58,17 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://nikk.hashnode.dev//nodejs-made-easier-with-express" title="NodeJs made easier with Express"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686992747972/3c142923-7ee9-4dc7-94e1-bd6a78f137c1.png" alt="NodeJs made easier with Express" width="250px" align="left" /></a>
+<a href="https://nikk.hashnode.dev//nodejs-made-easier-with-express" title="NodeJs made easier with Express"><strong>NodeJs made easier with Express</strong></a>
+<div><strong>18 June 2023</strong></div>
+<br/> Introduction
+Node.js has gained immense popularity in recent years due to its scalability, efficiency, and ability to build fast and robust web applications. However, writing code in Node.js can sometimes be challenging, especially when dealing with ... </p> <br/> <br/>
+<p align="left">
 <a href="https://nikk.hashnode.dev//file-system-module-in-nodejs" title="File System Module in Nodejs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686644684243/ac985370-9e8d-405e-ba02-9df4a7314e25.png" alt="File System Module in Nodejs" width="250px" align="left" /></a>
 <a href="https://nikk.hashnode.dev//file-system-module-in-nodejs" title="File System Module in Nodejs"><strong>File System Module in Nodejs</strong></a>
 <div><strong>15 June 2023</strong></div>
 <br/> Introduction
 In this series about nodejs today we are going to learn about file system. The file system module in Node.js is a powerful tool that allows developers to interact with the file system on their machines. It provides a wide range of functi... </p> <br/> <br/>
-<p align="left">
-<a href="https://nikk.hashnode.dev//building-your-first-web-server-using-nodejs" title="Building Your First Web Server Using NodeJs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686644720036/6fe090c0-2c24-4468-b08d-1d3293dfa9e6.png" alt="Building Your First Web Server Using NodeJs" width="250px" align="left" /></a>
-<a href="https://nikk.hashnode.dev//building-your-first-web-server-using-nodejs" title="Building Your First Web Server Using NodeJs"><strong>Building Your First Web Server Using NodeJs</strong></a>
-<div><strong>10 June 2023</strong> | <strong>Updated: 13 June 2023</strong></div>
-<br/> Introduction
-In today's blog we will be building our first HTTP server so there is some prerequisite for this blog which is some basic knowledge of javascript, an understanding of syntaxes in javascript. Node.js has gained significant popularity in r... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
