@@ -58,17 +58,17 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://nikk.hashnode.dev//building-a-short-url-project" title="Building a Short URL Project with Express, Mongoose, MongoDB, and Node.js"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687378783396/5941a6a4-922c-4cb6-aed1-3442bce10505.png" alt="Building a Short URL Project with Express, Mongoose, MongoDB, and Node.js" width="250px" align="left" /></a>
+<a href="https://nikk.hashnode.dev//building-a-short-url-project" title="Building a Short URL Project with Express, Mongoose, MongoDB, and Node.js"><strong>Building a Short URL Project with Express, Mongoose, MongoDB, and Node.js</strong></a>
+<div><strong>22 June 2023</strong> | <strong>Updated: 22 June 2023</strong></div>
+<br/> Introduction
+Hey everyone welcome back, this is a step-by-step guide on building a Short URL project using Express, Mongoose, MongoDB, and Node.js! In this project, we'll create a URL shortening service that allows users to generate short, customized... </p> <br/> <br/>
+<p align="left">
 <a href="https://nikk.hashnode.dev//nodejs-made-easier-with-express" title="NodeJs made easier with Express"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686992747972/3c142923-7ee9-4dc7-94e1-bd6a78f137c1.png" alt="NodeJs made easier with Express" width="250px" align="left" /></a>
 <a href="https://nikk.hashnode.dev//nodejs-made-easier-with-express" title="NodeJs made easier with Express"><strong>NodeJs made easier with Express</strong></a>
 <div><strong>18 June 2023</strong></div>
 <br/> Introduction
 Node.js has gained immense popularity in recent years due to its scalability, efficiency, and ability to build fast and robust web applications. However, writing code in Node.js can sometimes be challenging, especially when dealing with ... </p> <br/> <br/>
-<p align="left">
-<a href="https://nikk.hashnode.dev//file-system-module-in-nodejs" title="File System Module in Nodejs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686644684243/ac985370-9e8d-405e-ba02-9df4a7314e25.png" alt="File System Module in Nodejs" width="250px" align="left" /></a>
-<a href="https://nikk.hashnode.dev//file-system-module-in-nodejs" title="File System Module in Nodejs"><strong>File System Module in Nodejs</strong></a>
-<div><strong>15 June 2023</strong></div>
-<br/> Introduction
-In this series about nodejs today we are going to learn about file system. The file system module in Node.js is a powerful tool that allows developers to interact with the file system on their machines. It provides a wide range of functi... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
