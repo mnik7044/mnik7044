@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://nikk.hashnode.dev/](https://nikk.hashnode.dev/)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **mnik7044@gmail.com**
 
