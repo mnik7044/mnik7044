@@ -71,7 +71,7 @@ If you're a JavaScript developer looking to level up your coding game, transitio
 One aspect that often surprises developers of JavaScript (JS) and its server-side counterpart, Node.js, is the single-threaded nature of these platforms. In this article, we will explore the single-threaded architecture of JavaScript and... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=godnik&layout=compact&theme=dracula" />
 
 <table cellpadding="0">
   <tr style="padding: 0">
