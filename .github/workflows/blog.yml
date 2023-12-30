@@ -19,7 +19,7 @@ jobs:
           USERNAME: 'godnik' # Hashnode Username\
           COUNT: 2 #MAX Visisble
           STYLE: "blog-left"
-          BLOG_URL: 'https://blackslate.io/author/nikhil-mishra' # Blog URL
+          BLOG_URL: 'https://nikk.hashnode.dev/' # Blog URL
           
           
         env:
