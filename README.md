@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nikhil Mishra</h1>
-<h3 align="center">From front-end to back-end and everything in between – follow my full-stack web development adventures!🚀</h3>
+<h3 align="center">Full Stack Developer who prefers writing backend, exploring cloud and devops technology!!!!🚀</h3>
 <!--
 <img align="right" alt="CODE" width="400" src="https://github.com/mnik7044/mnik7044/blob/main/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966.gif"> 
 -->
