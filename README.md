@@ -1,4 +1,7 @@
+<!--
 ![Nikhil Mishra](https://github.com/utkarshkrishna2004/mnik7044/blob/main/nikhil-header.png)
+-->
+
 
 <h1 align="center">Hi 👋, I'm Nikhil Mishra</h1>
 <h3 align="center">From front-end to back-end and everything in between – follow my full-stack web development adventures!🚀</h3>
