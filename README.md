@@ -79,20 +79,6 @@ One aspect that often surprises developers of JavaScript (JS) and its server-sid
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=godnik&layout=compact&theme=dracula" />
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><p><img src="https://github-readme-stats.vercel.app/api?username=mnik7044&show_icons=true&theme=radical#gh-dark-mode-only" alt="mnik7044" /></p></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><p><img height = "200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnik7044&layout=compact&theme=radical&custom_title=Languages" alt="mnik7044" /></p></td>
-  </tr>
-</table>
 
-<p align="center">
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mnik7044&&theme=dark&show_icons=true" alt="mnik7044" />
-  
-  <p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=mnik7044&bg_color=010109&color=eff1f6&line=06b290&point=fffafa&area=true&hide_border=true" alt = "mnik7044" /> </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
-</p>
+
+
